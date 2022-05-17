@@ -24,7 +24,7 @@
     <div class="blog-masthead">
       <div class="container">
         <nav class="blog-nav">
-          <a class="blog-nav-item active" href="#">Home</a>
+          <a class="blog-nav-item active" href="/posts/index">Home</a>
 <!-- Para agregar el enlace -->
 <a class="blog-nav-item" href="/posts/add">New features</a>
 
